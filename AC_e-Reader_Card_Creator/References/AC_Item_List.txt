@@ -348,7 +348,47 @@
 0x0867, Golden Tree (Golden Shovel)
 0x0868, Golden Tree
 0x0869, Dead Golden Sapling
-0x086A, Blue Fish #7
+0x086A, Pink Tulips
+0x086B, Purple Tulips
+0x086C, Black Tulips
+0x086D, Blue Tulips
+0x086E, Red Pansies
+0x086F, Orange Pansies
+0x0870, Blue Pansies
+0x0871, Yellow Cosmos
+0x0872, Red Cosmos
+0x0873, Orange Cosmos
+0x0874, Black Cosmos
+0x0875, Jacob's Ladder
+0x0876, Chestnut Tree Sapling
+0x0877, Small Chestnut Tree
+0x0878, Medium Chestnut Tree
+0x0879, Large Chestnut Tree
+0x087A, Fully Grown Chestnut Tree (No Fruit) #1
+0x087B, Fully Grown Chestnut Tree (No Fruit) #2
+0x087C, Fully Grown Chestnut Tree (No Fruit) #3
+0x087D, Chestnut Tree (Fruit)
+0x087E, Golden Cedar Sapling
+0x087F, Small Golden Cedar Tree
+0x0880, Medium Golden Cedar Tree
+0x0881, Large Golden Cedar Tree
+0x0882, Golden Cedar Tree
+0x0883, Dead Golden Cedar Sapling
+0x0884, Golden Sapling (No Shovel)
+0x0885, Small Golden Tree (No Shovel)
+0x0886, Medium Golden Tree (No Shovel)
+0x0887, Large Golden Tree (No Shovel)
+0x0888, Red Roses
+0x0889, White Roses
+0x088A, Yellow Roses
+0x088B, Pink Roses
+0x088C, Purple Roses
+0x088D, Orange Roses
+0x088E, Black Roses
+0x088F, Blue Roses
+0x0890, Cyan Roses
+0x0891, Golden Roses
+0x0892, Black Roses (Copy?)
 0x0900, Placed Signboard w/ Player 1's Pattern #1
 0x0901, Placed Signboard w/ Player 1's Pattern #2
 0x0902, Placed Signboard w/ Player 1's Pattern #3
@@ -1672,6 +1712,113 @@
 0x2101, 10000 Bells
 0x2102, 30000 Bells
 0x2103, 100 Bells
+0x2104, 200 Bells
+0x2105, 300 Bells
+0x2106, 400 Bells
+0x2107, 500 Bells
+0x2108, 600 Bells
+0x2109, 700 Bells
+0x210A, 800 Bells
+0x210B, 900 Bells
+0x210C, 1000 Bells
+0x210D, 2000 Bells
+0x210E, 3000 Bells
+0x210F, 4000 Bells
+0x2110, 5000 Bells
+0x2111, 6000 Bells
+0x2112, 7000 Bells
+0x2113, 8000 Bells
+0x2114, 9000 Bells
+0x2115, 10000 Bells
+0x2116, 11000 Bells
+0x2117, 12000 Bells
+0x2118, 13000 Bells
+0x2119, 14000 Bells
+0x211A, 15000 Bells
+0x211B, 16000 Bells
+0x211C, 17000 Bells
+0x211D, 18000 Bells
+0x211E, 19000 Bells
+0x211F, 20000 Bells
+0x2120, 21000 Bells
+0x2121, 22000 Bells
+0x2122, 23000 Bells
+0x2123, 24000 Bells
+0x2124, 25000 Bells
+0x2125, 26000 Bells
+0x2126, 27000 Bells
+0x2127, 28000 Bells
+0x2128, 29000 Bells
+0x2129, 30000 Bells
+0x212A, 31000 Bells
+0x212B, 32000 Bells
+0x212C, 33000 Bells
+0x212D, 34000 Bells
+0x212E, 35000 Bells
+0x212F, 36000 Bells
+0x2130, 37000 Bells
+0x2131, 38000 Bells
+0x2132, 39000 Bells
+0x2133, 40000 Bells
+0x2134, 41000 Bells
+0x2135, 42000 Bells
+0x2136, 43000 Bells
+0x2137, 44000 Bells
+0x2138, 45000 Bells
+0x2139, 46000 Bells
+0x213A, 47000 Bells
+0x213B, 48000 Bells
+0x213C, 49000 Bells
+0x213D, 50000 Bells
+0x213E, 51000 Bells
+0x213F, 52000 Bells
+0x2140, 53000 Bells
+0x2141, 54000 Bells
+0x2142, 55000 Bells
+0x2143, 56000 Bells
+0x2144, 57000 Bells
+0x2145, 58000 Bells
+0x2146, 59000 Bells
+0x2147, 60000 Bells
+0x2148, 61000 Bells
+0x2149, 62000 Bells
+0x214A, 63000 Bells
+0x214B, 64000 Bells
+0x214C, 65000 Bells
+0x214D, 66000 Bells
+0x214E, 67000 Bells
+0x214F, 68000 Bells
+0x2150, 69000 Bells
+0x2151, 70000 Bells
+0x2152, 71000 Bells
+0x2153, 72000 Bells
+0x2154, 73000 Bells
+0x2155, 74000 Bells
+0x2156, 75000 Bells
+0x2157, 76000 Bells
+0x2158, 77000 Bells
+0x2159, 78000 Bells
+0x215A, 79000 Bells
+0x215B, 80000 Bells
+0x215C, 81000 Bells
+0x215D, 82000 Bells
+0x215E, 83000 Bells
+0x215F, 84000 Bells
+0x2160, 85000 Bells
+0x2161, 86000 Bells
+0x2162, 87000 Bells
+0x2163, 88000 Bells
+0x2164, 89000 Bells
+0x2165, 90000 Bells
+0x2166, 91000 Bells
+0x2167, 92000 Bells
+0x2168, 93000 Bells
+0x2169, 94000 Bells
+0x216A, 95000 Bells
+0x216B, 96000 Bells
+0x216C, 97000 Bells
+0x216D, 98000 Bells
+0x216E, 99000 Bells
 0x2200, Net
 0x2201, Axe
 0x2202, Shovel
@@ -1764,6 +1911,9 @@
 0x2259, Fan Fan
 0x225A, Flower Fan
 0x225B, Leaf Fan
+0x225C, Medicine
+0x225D, Watering Can
+0x225E, Golden Can
 0x2300, Crucian Carp
 0x2301, Brook Trout
 0x2302, Carp
@@ -1804,6 +1954,14 @@
 0x2325, Red Snapper
 0x2326, Barred Knifejaw
 0x2327, Arapaima
+0x2328, Puffer Fish
+0x2329, Dab
+0x232A, Squid
+0x232B, Swordfish
+0x232C, Olive Flounder
+0x232D, Octopus
+0x232E, Seahorse
+0x232F, Horse Mackerel
 0x2400, Flame Shirt
 0x2401, Paw Shirt
 0x2402, Wavy Pink Shirt
@@ -2247,10 +2405,24 @@
 0x2740, Mushroom Mural
 0x2741, Ringside Seating
 0x2742, Harvest Wall
-0x2743, Nook's Cranny Wall
-0x2744, Nook 'n' Go Wall
-0x2745, Nookway Wall
-0x2746, Nookington's Wall
+0x2743, Audience Wall
+0x2744, Hui-Mortar Wall
+0x2745, Bathhouse Wall
+0x2746, Dirt-Clod Wall
+0x2747, Cellar Wall
+0x2748, Sky Wall
+0x2749, Common Wall
+0x274A, Forest Wall
+0x274B, Illusion Wall
+0x274C, Lab Wall
+0x274D, Pastel-Dot Wall
+0x274E, Persian Wall
+0x274F, Robo-Wall
+0x2750, Cityscape Wall
+0x2751, Sea View
+0x2752, Sweets Wall
+0x2753, Shoji Screen
+0x2754, Chainlink Fence
 0x2800, Apple
 0x2801, Cherry
 0x2802, Pear
@@ -2270,6 +2442,37 @@
 0x2908, Red Tulip Bag
 0x2909, White Tulip Bag
 0x290A, Yellow Tulip Bag
+0x290E, Red Pansies
+0x290F, Orange Pansies
+0x2910, Blue Pansies
+0x2911, White Cosmos
+0x2912, Pink Cosmos
+0x2913, Blue Cosmos
+0x2914, Yellow Cosmos
+0x2915, Red Cosmos
+0x2916, Orange Cosmos
+0x2917, Black Cosmos
+0x2918, Red Tulips
+0x2919, White Tulips
+0x291A, Yellow Tulips
+0x291B, Pink Tulips
+0x291C, Purple Tulips
+0x291D, Black Tulips
+0x291E, Blue Tulips
+0x291F, Jacob's Ladder
+0x2920, Red Roses
+0x2921, White Roses
+0x2922, Yellow Roses
+0x2923, Pink Roses
+0x2924, Purple Roses
+0x2925, Orange Roses
+0x2926, Black Roses
+0x2927, Blue Roses
+0x2928, Cyan Roses
+0x2929, Golden Roses
+0x292A, Red Rose Bag
+0x292B, White Rose Bag
+0x292C, Yellow Rose Bag
 0x2A00, K.K. Chorale
 0x2A01, K.K. March
 0x2A02, K.K. Waltz
@@ -2477,11 +2680,14 @@
 0x2D25, Spider
 0x2D26, Ant
 0x2D27, Mosquito
-0x2D28, Spirit (1)
-0x2D29, Spirit (2)
-0x2D2A, Spirit (3)
-0x2D2B, Spirit (4)
-0x2D2C, Spirit (5)
+0x2D28, Birdwing Butterfly
+0x2D29, Dung Beetle
+0x2D2A, Diving Beetle
+0x2D2B, Hercules Beetle
+0x2D2C, Crab
+0x2D2D, Flea
+0x2D2E, Hermit Crab
+0x2D2F, Coconut Crab
 0x2E00, Grab Bag (1)
 0x2E01, Grab Bag (2)
 0x2F00, 10 Turnips
@@ -2623,12 +2829,12 @@
 0x3210, Fishing Trophy
 0x3214, Jersey Barrier
 0x3218, Speed Sign
-0x321C, Golf Trophy
+0x321C, NH Switch (Dummy, Replaces the "Golf Trophy" Dummy item)
 0x3220, Teacher's Desk
 0x3224, Haz-mat Barrel
-0x3228, Tennis Trophy
+0x3228, Ad Billboard (Dummy, Replaces the "Tennish Trophy" Dummy item)
 0x322C, Saw Horse
-0x3230, Kart Trophy
+0x3230, Cuyler's Photo (Replaces the "Kart Trophy" Dummy item)
 0x3234, Bug Zapper
 0x3238, Telescope
 0x323C, Coffee Machine
@@ -2730,6 +2936,77 @@
 0x33BC, Noisemaker
 0x33C0, Chowder
 0x33C4, DUMMY
+0x33C8, Dreamcast Shirt (Furniture)
+0x33CC, Tuxedo (Furniture)
+0x33D0, Party Dress (Furniture)
+0x33D4, Mexican Shirt (Furniture)
+0x33D8, Tomato Juice Top (Furniture)
+0x33DC, N-Cube Shirt (Furniture)
+0x33E0, Console Shirt (Furniture)
+0x33E4, I Heart 64 Shirt (Furniture)
+0x33E8, I Heart GC Shirt (Furniture)
+0x33EC, IQue Shirt (Furniture)
+0x33F0, W Shirt (Furniture)
+0x33F4, Familiar Shirt (Furniture)
+0x34CC, Birdwing Butterfly (Furniture)
+0x34D0, Dung Beetle (Furniture)
+0x34D4, Diving Beetle (Furniture)
+0x34D8, Hercules Beetle (Furniture)
+0x34DC, Crab (Furniture)
+0x34E0, Flea (Furniture)
+0x34E4, Hermit Crab (Furniture)
+0x34E8, Coconut Crab (Furniture)
+0x34EC, Puffer Fish (Furniture)
+0x34F0, Olive Flounder (Furniture)
+0x34F4, Squid (Furniture)
+0x34F8, Blue Marlin (Furniture)
+0x34FC, Dab (Furniture)
+0x3500, Octopus (Furniture)
+0x3504, Seahorse (Furniture)
+0x3508, Horse Mackerel (Furniture)
+0x350C, Mush Bed (Unused)
+0x3510, Mush Drawers (Unfinished)
+0x3514, Pyramid
+0x3518, Guan Yu Statue
+0x351C, Yellow Sand Pile
+0x3520, Bedside Cabinet
+0x3524, Blue-faced Egg
+0x3528, Brazier
+0x352C, Ceramic General
+0x3530, Black Piggy Bank
+0x3534, Ceramic Archer
+0x3538, Copper General
+0x353C, Copper Archer
+0x3540, Corner Flag
+0x3544, Desk With Books
+0x3548, Game Scoreboard
+0x354C, Flour-man Shelf
+0x3550, Headless Warrior
+0x3554, Heater
+0x3558, Incense Burner
+0x355C, IQue Logo
+0x3560, Large Bonsai
+0x3564, Large Water Tank
+0x3568, Left Stone Lion
+0x356C, Massage Bed
+0x3570, New Year's Goods
+0x3574, White Piggy Bank
+0x3578, Red-faced Egg
+0x357C, Right Stone Lion
+0x3580, Soccer Goal
+0x3584, Stone Stool
+0x3588, Stone Table
+0x358C, Player-swap Sign
+0x3590, Sports Camera
+0x3594, Ceramic Warrior
+0x3598, Copper Warrior
+0x359C, White-faced Egg
+0x35A0, Wine Jar
+0x35A4, Wooden Slippers
+0x35A8, Wooden Toilet
+0x35AC, Ad Billboard
+0x35B0, Watering Can (Furniture)
+0x35B4, Golden Can (Furniture)
 0x4000, House Stairs Warp #1
 0x4001, House Stairs Warp #2
 0x4080, Warp Zone
@@ -2969,6 +3246,43 @@
 0x50E9, Pigleg's House
 0x50EA, Ankha's House
 0x50EB, Punchy's House
+0x50EC, Kid Cat's House
+0x50ED, Agent S's House
+0x50EE, Big Top's House
+0x50EF, Norma's House
+0x50F0, Koharu's House
+0x50F1, Merry's House
+0x50F2, Chance's House
+0x50F3, Peggy's House
+0x50F4, Gladys's House
+0x50F5, Chabwick's House
+0x50F6, Benedict's House
+0x50F7, Felicity's House
+0x50F8, Sylvana's House
+0x50F9, Kidd's House
+0x50FA, Aisle's House
+0x50FB, Analogue's House
+0x50FC, Becky's House
+0x50FD, Bella's House
+0x50FE, Weldon's House
+0x50FF, Violet's House
+0x5100, Harry's House
+0x5101, Raddle's House
+0x5102, Wade's House
+0x5103, Curlos's House
+0x5104, Curt's House
+0x5105, Kit's House
+0x5106, Carrot's House
+0x5107, Avery's House
+0x5108, Clara's House
+0x5109, Chrissy's House
+0x510A, Ketchup's House
+0x510B, Gen's House
+0x510C, Frobert's House
+0x510D, Sunny's House
+0x510E, Bree's House
+0x5112, Roscoe's House
+0x5114, Jacob's House
 0x5800, Upper Left Player House
 0x5801, Upper Right Player House
 0x5802, Lower Left Player House
@@ -3045,6 +3359,18 @@
 0x5850, Player's Island House
 0x5851, Islander's House
 0x5852, Dock Signboard
+0x6100, Dreamcast Shirt
+0x6101, Tuxedo
+0x6102, Party Dress
+0x6103, Mexican Shirt
+0x6104, Tomato Juice Top
+0x6105, N-Cube Shirt
+0x6106, Console Shirt
+0x6107, I Heart 64 Shirt
+0x6108, I Heart GC Shirt
+0x6109, IQue Shirt
+0x610A, W Shirt
+0x610B, Familiar Shirt
 0x8000, Beta Paper Airplane (Replicates Limitlessly)
 0x8003, Beta Yellow/Brown Rotating Cube
 0xA000, Upper Left House's Mailbox
