@@ -9,6 +9,7 @@ using System.Drawing.Text;
 using System.Runtime.InteropServices;
 using System.Diagnostics;
 using AC_e_Reader_Card_Creator.References;
+using Microsoft.Win32;
 
 namespace AC_e_Reader_Card_Creator
 {
@@ -537,9 +538,67 @@ namespace AC_e_Reader_Card_Creator
             MessageBox.Show(Common.CREDIT, "e-Reader Character Card Creator");
         }
 
-        private void ToggleDarkMode(object sender, EventArgs e)
+        public void ToggleDarkMode(object sender, EventArgs e)
         {
             isDarkModeEnabled = !isDarkModeEnabled;
+
+            BackColor = isDarkModeEnabled ? Color.FromArgb(40, 40, 40) : SystemColors.Control;
+
+            foreach (Control control in Controls)
+            {
+                if (control is ToolStrip)
+                {
+                    continue;
+                }
+
+                if (isDarkModeEnabled)
+                {
+                    control.BackColor = Color.FromArgb(40, 40, 40);
+                    control.ForeColor = Color.FromArgb(255, 255, 255);
+
+                    if (control is TextBox textBox)
+                    {
+                        textBox.BorderStyle = BorderStyle.FixedSingle;
+                    }
+                    else if (control is Button button)
+                    {
+                        button.FlatStyle = FlatStyle.Flat;
+                        button.FlatAppearance.BorderColor = Color.FromArgb(255, 255, 255);
+                    }
+                    else if (control is ComboBox comboBox)
+                    {
+                        comboBox.BackColor = SystemColors.Window;
+                        comboBox.ForeColor = SystemColors.ControlText;
+                    }
+                }
+                else
+                {
+                    control.BackColor = SystemColors.Control;
+                    control.ForeColor = SystemColors.ControlText;
+
+                    if (control is TextBox textBox)
+                    {
+                        textBox.BackColor = Color.White;
+                        textBox.BorderStyle = BorderStyle.Fixed3D;
+                    }
+                    else if (control is Button button)
+                    {
+                        button.BackColor = Color.White;
+                        button.FlatStyle = FlatStyle.Standard;
+                        button.FlatAppearance.BorderColor = Color.White;
+                    }
+                    else if (control is ComboBox comboBox)
+                    {
+                        comboBox.BackColor = SystemColors.Window;
+                        comboBox.ForeColor = SystemColors.ControlText;
+                    }
+                }
+            }
+        }
+
+        internal void EnableDarkMode()
+        {
+            isDarkModeEnabled = true;
 
             BackColor = isDarkModeEnabled ? Color.FromArgb(40, 40, 40) : SystemColors.Control;
 

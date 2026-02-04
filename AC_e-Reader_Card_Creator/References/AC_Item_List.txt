@@ -2423,14 +2423,106 @@
 0x2752, Sweets Wall
 0x2753, Shoji Screen
 0x2754, Chainlink Fence
-0x2800, Apple
-0x2801, Cherry
-0x2802, Pear
-0x2803, Peach
-0x2804, Orange
-0x2805, Mushroom
-0x2806, Candy
-0x2807, Coconut
+0x2800, Apple (1)
+0x2801, Apple Basket (2)
+0x2802, Apple Basket (3)
+0x2803, Apple Basket (4)
+0x2804, Apple Basket (5)
+0x2805, Apple Basket (6)
+0x2806, Apple Basket (7)
+0x2807, Apple Basket (8)
+0x2808, Apple Basket (9)
+0x2809, Apple Basket (10)
+0x280A, Cherry (1)
+0x280B, Cherry Basket (2)
+0x280C, Cherry Basket (3)
+0x280D, Cherry Basket (4)
+0x280E, Cherry Basket (5)
+0x280F, Cherry Basket (6)
+0x2810, Cherry Basket (7)
+0x2811, Cherry Basket (8)
+0x2812, Cherry Basket (9)
+0x2813, Cherry Basket (10)
+0x2814, Pear (1)
+0x2815, Pear Basket (2)
+0x2816, Pear Basket (3)
+0x2817, Pear Basket (4)
+0x2818, Pear Basket (5)
+0x2819, Pear Basket (6)
+0x281A, Pear Basket (7)
+0x281B, Pear Basket (8)
+0x281C, Pear Basket (9)
+0x281D, Pear Basket (10)
+0x281E, Peach (1)
+0x281F, Peach Basket (2)
+0x2820, Peach Basket (3)
+0x2821, Peach Basket (4)
+0x2822, Peach Basket (5)
+0x2823, Peach Basket (6)
+0x2824, Peach Basket (7)
+0x2825, Peach Basket (8)
+0x2826, Peach Basket (9)
+0x2827, Peach Basket (10)
+0x2828, Orange (1)
+0x2829, Orange Basket (2)
+0x282A, Orange Basket (3)
+0x282B, Orange Basket (4)
+0x282C, Orange Basket (5)
+0x282D, Orange Basket (6)
+0x282E, Orange Basket (7)
+0x282F, Orange Basket (8)
+0x2830, Orange Basket (9)
+0x2831, Orange Basket (10)
+0x2832, Mushroom (1)
+0x2833, Mushroom Basket (2)
+0x2834, Mushroom Basket (3)
+0x2835, Mushroom Basket (4)
+0x2836, Mushroom Basket (5)
+0x2837, Mushroom Basket (6)
+0x2838, Mushroom Basket (7)
+0x2839, Mushroom Basket (8)
+0x283A, Mushroom Basket (9)
+0x283B, Mushroom Basket (10)
+0x283C, Candy (1)
+0x283D, Candy Basket (2)
+0x283E, Candy Basket (3)
+0x283F, Candy Basket (4)
+0x2840, Candy Basket (5)
+0x2841, Candy Basket (6)
+0x2842, Candy Basket (7)
+0x2843, Candy Basket (8)
+0x2844, Candy Basket (9)
+0x2845, Candy Basket (10)
+0x2846, Coconut (1)
+0x2847, Coconut Basket (2)
+0x2848, Coconut Basket (3)
+0x2849, Coconut Basket (4)
+0x284A, Coconut Basket (5)
+0x284B, Coconut Basket (6)
+0x284C, Coconut Basket (7)
+0x284D, Coconut Basket (8)
+0x284E, Coconut Basket (9)
+0x284F, Coconut Basket (10)
+0x2850, Chestnut (1)
+0x2851, Chestnut Basket (2)
+0x2852, Chestnut Basket (3)
+0x2853, Chestnut Basket (4)
+0x2854, Chestnut Basket (5)
+0x2855, Chestnut Basket (6)
+0x2856, Chestnut Basket (7)
+0x2857, Chestnut Basket (8)
+0x2858, Chestnut Basket (9)
+0x2859, Chestnut Basket (10)
+0x285A, Durian (1)
+0x285B, Durian Basket (2)
+0x285C, Durian Basket (3)
+0x285D, Durian Basket (4)
+0x285E, Durian Basket (5)
+0x285F, Durian Basket (6)
+0x2860, Durian Basket (7)
+0x2861, Durian Basket (8)
+0x2862, Durian Basket (9)
+0x2863, Durian Basket (10)
 0x2900, Potted Sapling
 0x2901, Potted Cedar Sapling
 0x2902, White Pansy Bag
@@ -2694,6 +2786,8 @@
 0x2F01, 50 Turnips
 0x2F02, 100 Turnips
 0x2F03, Spoiled Turnips
+0x2F04, 500 Turnips
+0x2F05, 1000 Turnips
 0x3000, Purple Balloon
 0x3004, Bunny P. Balloon
 0x3008, Bunny B. Balloon
@@ -2829,12 +2923,12 @@
 0x3210, Fishing Trophy
 0x3214, Jersey Barrier
 0x3218, Speed Sign
-0x321C, NH Switch (Dummy, Replaces the "Golf Trophy" Dummy item)
+0x321C, NH Switch (Dummy)
 0x3220, Teacher's Desk
 0x3224, Haz-mat Barrel
-0x3228, Ad Billboard (Dummy, Replaces the "Tennish Trophy" Dummy item)
+0x3228, Ad Billboard (Dummy)
 0x322C, Saw Horse
-0x3230, Cuyler's Photo (Replaces the "Kart Trophy" Dummy item)
+0x3230, Cuyler's Photo
 0x3234, Bug Zapper
 0x3238, Telescope
 0x323C, Coffee Machine
@@ -2945,7 +3039,7 @@
 0x33E0, Console Shirt (Furniture)
 0x33E4, I Heart 64 Shirt (Furniture)
 0x33E8, I Heart GC Shirt (Furniture)
-0x33EC, IQue Shirt (Furniture)
+0x33EC, iQue Shirt (Furniture)
 0x33F0, W Shirt (Furniture)
 0x33F4, Familiar Shirt (Furniture)
 0x34CC, Birdwing Butterfly (Furniture)
@@ -2984,29 +3078,320 @@
 0x3550, Headless Warrior
 0x3554, Heater
 0x3558, Incense Burner
-0x355C, IQue Logo
+0x355C, iQue Logo
 0x3560, Large Bonsai
 0x3564, Large Water Tank
 0x3568, Left Stone Lion
 0x356C, Massage Bed
 0x3570, New Year's Goods
 0x3574, White Piggy Bank
-0x3578, Red-faced Egg
+0x3578, Red-Faced Egg
 0x357C, Right Stone Lion
 0x3580, Soccer Goal
 0x3584, Stone Stool
 0x3588, Stone Table
-0x358C, Player-swap Sign
+0x358C, Player-Swap Sign
 0x3590, Sports Camera
 0x3594, Ceramic Warrior
 0x3598, Copper Warrior
-0x359C, White-faced Egg
+0x359C, White-Faced Egg
 0x35A0, Wine Jar
 0x35A4, Wooden Slippers
 0x35A8, Wooden Toilet
 0x35AC, Ad Billboard
 0x35B0, Watering Can (Furniture)
 0x35B4, Golden Can (Furniture)
+0x35B8, Cracker
+0x35BC, Apple Box
+0x35C0, Scarecrow
+0x35C4, Jomon Pottery
+0x35C8, Claw-Foot Tub
+0x35CC, Basketball Hoop
+0x35D0, Mummy's Casket
+0x35D4, Mandarin Box
+0x35D8, Jumping Boy Sign
+0x35DC, Fire Hydrant
+0x35E0, Ancient Statue
+0x35E4, Pinball Table
+0x35E8, Drum Set
+0x35EC, Wooden Crate
+0x35F0, Rocking Horse
+0x35F4, Shower
+0x35F8, Helm
+0x35FC, Dart Board
+0x3600, Princess Bed
+0x3604, Nook's Autograph
+0x3608, Decorative Plate
+0x360C, Shop Signboard
+0x3610, Ghostly Table
+0x3614, Axe (Furniture)
+0x3630, Flame Shirt (Furniture)
+0x3634, Paw Shirt (Furniture)
+0x3638, Wavy Pink Shirt (Furniture)
+0x363C, Future Shirt (Furniture)
+0x3640, Bold Check Shirt (Furniture)
+0x3644, Mint Gingham (Furniture)
+0x3648, Bad Plaid Shirt (Furniture)
+0x364C, Speedway Shirt (Furniture)
+0x3650, Folk Shirt (Furniture)
+0x3654, Daisy Shirt (Furniture)
+0x3658, Wavy Tan Shirt (Furniture)
+0x365C, Optical Shirt (Furniture)
+0x3660, Rugby Shirt (Furniture)
+0x3664, Sherbet Gingham (Furniture)
+0x3668, Yellow Tartan (Furniture)
+0x366C, Gelato Shirt (Furniture)
+0x3670, Work Uniform (Furniture)
+0x3674, Patched Shirt (Furniture)
+0x3678, Plum Kimono (Furniture)
+0x367C, Somber Robe (Furniture)
+0x3680, Red Sweatsuit (Furniture)
+0x3684, Blue Sweatsuit (Furniture)
+0x3688, Red Puffy Vest (Furniture)
+0x368C, Blue Puffy Vest (Furniture)
+0x3690, Summer Robe (Furniture)
+0x3694, Bamboo Robe (Furniture)
+0x3698, Red Aloha Shirt (Furniture)
+0x369C, Blue Aloha Shirt (Furniture)
+0x36A0, Dark Polka Shirt (Furniture)
+0x36A4, Lite Polka Shirt (Furniture)
+0x36A8, Lovely Shirt (Furniture)
+0x36AC, Citrus Shirt (Furniture)
+0x36B0, Kiwi Shirt (Furniture)
+0x36B4, Watermelon Shirt (Furniture)
+0x36B8, Strawberry Shirt (Furniture)
+0x36BC, Grape Shirt (Furniture)
+0x36C0, Melon Shirt (Furniture)
+0x36C4, Jingle Shirt (Furniture)
+0x36C8, Blossom Shirt (Furniture)
+0x36CC, Icy Shirt (Furniture)
+0x36D0, Crewel Shirt (Furniture)
+0x36D4, Tropical Shirt (Furniture)
+0x36D8, Ribbon Shirt (Furniture)
+0x36DC, Fall Plaid Shirt (Furniture)
+0x36E0, Fiendish Shirt (Furniture)
+0x36E4, Chevron Shir (Furniture)
+0x36E8, Ladybug Shirt (Furniture)
+0x36EC, Botanical Shirt (Furniture)
+0x36F0, Anju's Shirt (Furniture)
+0x36F4, Kafei's Shirt (Furniture)
+0x36F8, Lavender Robe (Furniture)
+0x36FC, Blue Grid Shirt (Furniture)
+0x3700, Butterfly Shirt (Furniture)
+0x3704, Blue Tartan (Furniture)
+0x3708, Gracie's Top (Furniture)
+0x370C, Orange Tie-Die (Furniture)
+0x3710, Purple Tie-Die (Furniture)
+0x3714, Green Tie-Die (Furniture)
+0x3718, Blue Tie-Die (Furniture)
+0x371C, Red Tie-Die (Furniture)
+0x3720, One-Ball Shirt (Furniture)
+0x3724, Two-Ball Shirt (Furniture)
+0x3728, Three-Ball Shirt (Furniture)
+0x372C, Four-Ball Shirt (Furniture)
+0x3730, Five-Ball Shirt (Furniture)
+0x3734, Six-Ball Shirt (Furniture)
+0x3738, Seven-Ball Shirt (Furniture)
+0x373C, Eight-Ball Shirt (Furniture)
+0x3740, Nine-Ball Shirt (Furniture)
+0x3744, Arctic Camo (Furniture)
+0x3748, Jungle Camo (Furniture)
+0x374C, Desert Camo (Furniture)
+0x3750, Rally Shirt (Furniture)
+0x3754, Racer Shirt (Furniture)
+0x3758, Racer 6 Shirt (Furniture)
+0x375C, Fish Bone Shirt (Furniture)
+0x3760, Spiderweb Shirt (Furniture)
+0x3764, Zipper Shirt (Furniture)
+0x3768, Bubble Shirt (Furniture)
+0x376C, Yellow Bolero (Furniture)
+0x3770, Nebula Shirt (Furniture)
+0x3774, Neo-Classic Knit (Furniture)
+0x3778, Noble Shirt (Furniture)
+0x377C, Turnip Top (Furniture)
+0x3780, Oft-Seen Print (Furniture)
+0x3784, Ski Sweater (Furniture)
+0x3788, Circus Shirt (Furniture)
+0x378C, Patchwork Top (Furniture)
+0x3790, Mod Top (Furniture)
+0x3794, Hippie Shirt (Furniture)
+0x3798, Rickrack Shirt (Furniture)
+0x379C, Diner Uniform (Furniture)
+0x37A0, Shirt Circuit (Furniture)
+0x37A4, U R Here Shirt (Furniture)
+0x37A8, Yodel Shirt (Furniture)
+0x37AC, Pulse Shirt (Furniture)
+0x37B0, Prism Shirt (Furniture)
+0x37B4, Star Shirt (Furniture)
+0x37B8, Straw Shirt (Furniture)
+0x37BC, Noodle Shirt (Furniture)
+0x37C0, Dice Shirt (Furniture)
+0x37C4, Kiddie Shirt (Furniture)
+0x37C8, Frog Shirt (Furniture)
+0x37CC, Moody Blue Shirt (Furniture)
+0x37D0, Cloudy Shirt (Furniture)
+0x37D4, Fortune Shirt (Furniture)
+0x37D8, Skull Shirt (Furniture)
+0x37DC, Desert Shirt (Furniture)
+0x37E0, Aurora Knit (Furniture)
+0x37E4, Winter Sweater (Furniture)
+0x37E8, Go-Go Shirt (Furniture)
+0x37EC, Jade Check Print (Furniture)
+0x37F0, Blue Check Print (Furniture)
+0x37F4, Red Grid Shirt (Furniture)
+0x37F8, Flicker Shirt (Furniture)
+0x37FC, Floral Knit (Furniture)
+0x3800, Rose Shirt (Furniture)
+0x3804, Sunset Top (Furniture)
+0x3808, Chain-Gang Shirt (Furniture)
+0x380C, Spring Shirt (Furniture)
+0x3810, Bear Shirt (Furniture)
+0x3814, MVP Shirt (Furniture)
+0x3818, Silk Boom Shirt (Furniture)
+0x381C, Pop Bloom Shirt (Furniture)
+0x3820, Loud Bloom Shirt (Furniture)
+0x3824, Hot Spring Shirt (Furniture)
+0x3828, New Spring Shirt (Furniture)
+0x382C, Deep Blue Tee (Furniture)
+0x3830, Snowcone Shirt (Furniture)
+0x3834, Ugly Shirt (Furniture)
+0x3838, Sharp Outfit (Furniture)
+0x383C, Painter's Smock (Furniture)
+0x3840, Spade Shirt (Furniture)
+0x3844, Blossoming Shirt (Furniture)
+0x3848, Peachy Shirt (Furniture)
+0x384C, Static Shirt (Furniture)
+0x3850, Rainbow Shirt (Furniture)
+0x3854, Groovy Shirt (Furniture)
+0x3858, Loud Line Shirt (Furniture)
+0x385C, Dazed Shirt (Furniture)
+0x3860, Red Bar Shirt (Furniture)
+0x3864, Blue Stripe Shirt (Furniture)
+0x3868, Earthy Knit (Furniture)
+0x386C, Spunky Knit (Furniture)
+0x3870, Deer Shirt (Furniture)
+0x3874, Blue Check Shirt (Furniture)
+0x3878, Light Line Shirt (Furniture)
+0x387C, Blue Pinstripe (Furniture)
+0x3880, Diamond Shirt (Furniture)
+0x3884, Lime Line Shirt (Furniture)
+0x3888, Big Bro's Shirt (Furniture)
+0x388C, Green Bar Shirt (Furniture)
+0x3890, Yellow Bar Shirt (Furniture)
+0x3894, Monkey Shirt (Furniture)
+0x3898, Polar Fleece (Furniture)
+0x389C, Ancient Knit (Furniture)
+0x38A0, Fish Knit (Furniture)
+0x38A4, Vertigo Shirt (Furniture)
+0x38A8, Misty Shirt (Furniture)
+0x38AC, Stormy Shirt (Furniture)
+0x38B0, Red Scale Shirt (Furniture)
+0x38B4, Blue Scale Shirt (Furniture)
+0x38BC, Yellow Pinstripe (Furniture)
+0x38C0, Club Shirt (Furniture)
+0x38C4, Li'l Bro's Shirt (Furniture)
+0x38C8, Argyle Knit (Furniture)
+0x38CC, Caveman Tunic (Furniture)
+0x38D0, Café Shirt (Furniture)
+0x38D4, Tiki Shirt (Furniture)
+0x38D8, A Shirt (Furniture)
+0x38DC, Checkered Shirt (Furniture)
+0x38E0, No. 1 Shirt (Furniture)
+0x38E4, No. 2 Shirt (Furniture)
+0x38E8, No. 3 Shirt (Furniture)
+0x38EC, No. 4 Shirt (Furniture)
+0x38F0, No. 5 Shirt (Furniture)
+0x38F4, No. 23 Shirt (Furniture)
+0x38F8, No. 67 Shirt (Furniture)
+0x38FC, BB Shirt (Furniture)
+0x3900, Beatnik Shirt (Furniture)
+0x3904, Moldy Shirt (Furniture)
+0x3908, Houndstooth Tee (Furniture)
+0x390C, Big Star Shirt (Furniture)
+0x3910, Orange Pinstripe (Furniture)
+0x3914, Twinkle Shirt (Furniture)
+0x3918, Funky Dot Shirt (Furniture)
+0x391C, Crossing Shirt (Furniture)
+0x3920, Splendid Shirt (Furniture)
+0x3924, Jagged Shirt (Furniture)
+0x3928, Denim Shirt (Furniture)
+0x392C, Cherry Shirt (Furniture)
+0x3930, Gumdrop Shirt (Furniture)
+0x3934, Barber Shirt (Furniture)
+0x3938, Concierge Shirt (Furniture)
+0x393C, Fresh Shirt (Furniture)
+0x3940, Far-Out Shirt (Furniture)
+0x3944, Dawn Shirt (Furniture)
+0x3948, Striking Outfit (Furniture)
+0x394C, Red Check Shirt (Furniture)
+0x3950, Berry Gingham (Furniture)
+0x3954, Lemon Gingham (Furniture)
+0x3958, Dragon Suit (Furniture)
+0x395C, G Logo Shirt (Furniture)
+0x3960, Tin Shirt (Furniture)
+0x3964, Jester Shirt (Furniture)
+0x3968, Pink Tartan (Furniture)
+0x396C, Waffle Shirt (Furniture)
+0x3970, Gray Tartan (Furniture)
+0x3974, Windsock Shirt (Furniture)
+0x3978, Trendy Top (Furniture)
+0x397C, Green Ring Shirt (Furniture)
+0x3980, White Ring Shirt (Furniture)
+0x3984, Snappy Print (Furniture)
+0x3988, Chichi Print (Furniture)
+0x398C, Wave Print (Furniture)
+0x3990, Checkerboard Tee (Furniture)
+0x3994, Subdued Print (Furniture)
+0x3998, Airy Shirt (Furniture)
+0x399C, Coral Shirt (Furniture)
+0x39A0, Leather Jerkin (Furniture)
+0x39A4, Zebra Print (Furniture)
+0x39A8, Tiger Print (Furniture)
+0x39AC, Cow Print (Furniture)
+0x39B0, Leopard Print (Furniture)
+0x39B4, Danger Shirt (Furniture)
+0x39B8, Big Dot Shirt (Furniture)
+0x39BC, Puzzling Shirt (Furniture)
+0x39C0, Exotic Shirt (Furniture)
+0x39C4, Houndstooth Knit (Furniture)
+0x39C8, Uncommon Shirt (Furniture)
+0x39CC, Dapper Shirt (Furniture)
+0x39D0, Gaudy Sweater (Furniture)
+0x39D4, Cozy Sweater (Furniture)
+0x39D8, Comfy Sweater (Furniture)
+0x39DC, Classic Top (Furniture)
+0x39E0, Vogue Top (Furniture)
+0x39E4, Laced Shirt (Furniture)
+0x39E8, Natty Shirt (Furniture)
+0x39EC, Citrus Gingham (Furniture)
+0x39F0, Cool Shirt (Furniture)
+0x39F4, Dreamy Shirt (Furniture)
+0x39F8, Flowery Shirt (Furniture)
+0x39FC, Caterpillar Tee (Furniture)
+0x3A00, Shortcake Shirt (Furniture)
+0x3A04, Whirly Shirt (Furniture)
+0x3A08, Thunder Shirt (Furniture)
+0x3A0C, Giraffe Print (Furniture)
+0x3A10, Swell Shirt (Furniture)
+0x3A14, Toad Print (Furniture)
+0x3A18, Grass Shirt (Furniture)
+0x3A1C, Mosaic Shirt (Furniture)
+0x3A20, Fetching Outfit (Furniture)
+0x3A24, Snow Shirt (Furniture)
+0x3A28, Melon Gingham (Furniture)
+0x3A2C, Mannequin Wood Shirt (Furniture)
+0x3A30, Dreamcast Shirt (Furniture)
+0x3A34, Tuxedo (Furniture)
+0x3A38, Party Dress (Furniture)
+0x3A3C, Mexican Shirt (Furniture)
+0x3A40, Tomato Juice Top (Furniture)
+0x3A44, N-Cube Shirt (Furniture)
+0x3A48, Console Shirt (Furniture)
+0x3A4C, I Heart 64 Shirt (Furniture)
+0x3A50, I Heart GC Shirt (Furniture)
+0x3A54, iQue Shirt (Furniture)
+0x3A58, W Shirt (Furniture)
+0x3A5C, Familiar Shirt (Furniture)
 0x4000, House Stairs Warp #1
 0x4001, House Stairs Warp #2
 0x4080, Warp Zone
@@ -3281,8 +3666,11 @@
 0x510C, Frobert's House
 0x510D, Sunny's House
 0x510E, Bree's House
+0x5111, Frett's House
 0x5112, Roscoe's House
 0x5114, Jacob's House
+0x5119, Moe's House
+0x512C, Broccolo's House
 0x5800, Upper Left Player House
 0x5801, Upper Right Player House
 0x5802, Lower Left Player House
@@ -3359,6 +3747,38 @@
 0x5850, Player's Island House
 0x5851, Islander's House
 0x5852, Dock Signboard
+0x5853, Park Clock (Renna Project)
+0x5854, Street Lamp (Renna Project)
+0x5855, Windpump (Renna Project)
+0x5856, Flower Clock (Renna Project)
+0x5857, Helipad (Renna Project)
+0x5858, Wind Turbine (Renna Project)
+0x5859, Pipes (Renna Project)
+0x585A, Stonehenge (Renna Project)
+0x585B, Huge Egg (Renna Project)
+0x585C, Footprints (Renna Project)
+0x585D, Geoglyph (Renna Project)
+0x585E, Huge Mushroom (Renna Project)
+0x585F, Guidepost (Renna Project)
+0x5860, Well (Renna Project)
+0x5861, Fountain (Renna Project)
+0x5862, Construction Signboard #1 (Park Clock)
+0x5863, Construction Signboard #2 (Street Lamp)
+0x5864, Construction Signboard #3 (Windpump)
+0x5865, Construction Signboard #4 (Flower Clock)
+0x5866, Construction Signboard #5 (Helipad)
+0x5867, Construction Signboard #6 (Wind Turbine)
+0x5868, Construction Signboard #7 (Pipes)
+0x5869, Construction Signboard #8 (Stonehenge)
+0x586A, Construction Signboard #9 (Huge Egg)
+0x586B, Construction Signboard #10 (Footprints)
+0x586C, Construction Signboard #11 (Geoglyph)
+0x586D, Construction Signboard #12 (Huge Mushroom)
+0x586E, Construction Signboard #13 (Guidepost)
+0x586F, Construction Signboard #14 (Well)
+0x5870, Construction Signboard #15 (Fountain)
+0x5871, Suspension Bridge (-)
+0x5872, Town Flag 
 0x6100, Dreamcast Shirt
 0x6101, Tuxedo
 0x6102, Party Dress
@@ -3368,11 +3788,11 @@
 0x6106, Console Shirt
 0x6107, I Heart 64 Shirt
 0x6108, I Heart GC Shirt
-0x6109, IQue Shirt
+0x6109, iQue Shirt
 0x610A, W Shirt
 0x610B, Familiar Shirt
-0x8000, Beta Paper Airplane (Replicates Limitlessly)
-0x8003, Beta Yellow/Brown Rotating Cube
+0x8000, Paper Airplane
+0x8003, Beta Yellow/Brown Rotating Cube (Broken?)
 0xA000, Upper Left House's Mailbox
 0xA001, Upper Right House's Mailbox
 0xA002, Lower Left House's Mailbox
@@ -3392,8 +3812,8 @@
 0xA010, Snowman #9
 0xA011, Train Caboose Door
 0xA012, Villager Signboard
-0xA013, Player (Laying on Side, Soft-locks Game, Seen in Wrong-warp)
-0xA016, Player (Standing, Soft-locks Game)
+0xA013, Player (Laying on Side, Softlocks Game, Seen in Wrong-Warp)
+0xA016, Player (Standing, Softlocks Game)
 0xFE1B, House Exit Flooring
 0xFE1D, Possible Bridge Location (/)
 0xFE1E, Possible Bridge Location (\)
