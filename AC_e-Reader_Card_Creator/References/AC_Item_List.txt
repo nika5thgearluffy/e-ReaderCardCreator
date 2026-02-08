@@ -2338,6 +2338,18 @@
 0x2644, Nook 'n' Go Floor
 0x2645, Nookway Floor
 0x2646, Nookington's Floor
+0x2647, Cellar Floor
+0x2648, Cloud Flooring
+0x2649, Common Floor
+0x264A, Forest Floor
+0x264B, Illusion Floor
+0x264C, Lab Floor
+0x264D, Pastel-Dot Rug
+0x264E, Persian Rug
+0x264F, Robo-Floor
+0x2650, Round Carpet
+0x2651, Ship Deck
+0x2652, Sweets Floor
 0x2700, Chic Wall
 0x2701, Classic Wall
 0x2702, Parlor Wall
@@ -2620,6 +2632,91 @@
 0x2A34, K.K. Song
 0x2A35, I Love You
 0x2A36, Two Days Ago
+0x2A37, My Place
+0x2A38, Forest Life
+0x2A39, To the Edge
+0x2A3A, K.K. Marathon
+0x2A3B, Pondering
+0x2A3C, K.K. Rockabilly
+0x2A3D, K.K. Dixie
+0x2A3E, K.K. Metal
+0x2A3F, King K.K.
+0x2A40, K.K. Rally
+0x2A41, Agent K.K.
+0x2A42, Marine Song 2001
+0x2A43, Neapolitan
+0x2A44, Mountain Song
+0x2A45, Steep Hill
+0x2A46, K.K. Chorale (Live)
+0x2A47, K.K. March (Live)
+0x2A48, K.K. Waltz (Live)
+0x2A49, K.K. Swing (Live)
+0x2A4A, K.K. Jazz (Live)
+0x2A4B, K.K. Fusion (Live)
+0x2A4C, K.K. Etude (Live)
+0x2A4D, K.K. Lullaby (Live)
+0x2A4E, K.K. Aria (Live)
+0x2A4F, K.K. Samba (Live)
+0x2A50, K.K. Bossa (Live)
+0x2A51, K.K. Calypso (Live)
+0x2A52, K.K. Salsa (Live)
+0x2A53, K.K. Mambo (Live)
+0x2A54, K.K. Reggae (Live)
+0x2A55, K.K. Ska (Live)
+0x2A56, K.K. Tango (Live)
+0x2A57, K.K. Faire (Live)
+0x2A58, Aloha K.K. (Live)
+0x2A59, Lucky K.K. (Live)
+0x2A5A, K.K. Condor (Live)
+0x2A5B, K.K. Steppe (Live)
+0x2A5C, Imperial K.K. (Live)
+0x2A5D, K.K. Casbah (Live)
+0x2A5E, K.K. Safari (Live)
+0x2A5F, K.K. Folk (Live)
+0x2A60, K.K. Rock (Live)
+0x2A61, Rockin' K.K. (Live)
+0x2A62, K.K. Ragtime (Live)
+0x2A63, K.K. Gumbo (Live)
+0x2A64, The K. Funk (Live)
+0x2A65, K.K. Blues (Live)
+0x2A66, Soulful K.K. (Live)
+0x2A67, K.K. Soul (Live)
+0x2A68, K.K. Cruisin' (Live)
+0x2A69, K.K. Love Song (Live)
+0x2A6A, K.K. D & B (Live)
+0x2A6B, K.K. Technopop (Live)
+0x2A6C, DJ K.K. (Live)
+0x2A6D, Only Me (Live)
+0x2A6E, K.K. Country (Live)
+0x2A6F, Surfin' K.K. (Live)
+0x2A70, K.K. Ballad (Live)
+0x2A71, Comrade K.K. (Live)
+0x2A72, K.K. Lament (Live)
+0x2A73, Go K.K. Rider! (Live)
+0x2A74, K.K. Dirge (Live)
+0x2A75, K.K. Western (Live)
+0x2A76, Mr. K.K. (Live)
+0x2A77, Café K.K. (Live)
+0x2A78, K.K. Parade (Live)
+0x2A79, Señor K.K. (Live)
+0x2A7A, K.K. Song (Live)
+0x2A7B, I Love You (Live)
+0x2A7C, Two Days Ago (Live)
+0x2A7D, My Place (Live)
+0x2A7E, Forest Life (Live)
+0x2A7F, To the Edge (Live)
+0x2A80, K.K. Marathon (Live)
+0x2A81, Pondering (Live)
+0x2A82, K.K. Rockabilly (Live)
+0x2A83, K.K. Dixie (Live)
+0x2A84, K.K. Metal (Live)
+0x2A85, King K.K. (Live)
+0x2A86, K.K. Rally (Live)
+0x2A87, Agent K.K. (Live)
+0x2A88, Marine Song 2001 (Live)
+0x2A89, Neapolitan (Live)
+0x2A8A, Mountain Song (Live)
+0x2A8B, Steep Hill (Live)
 0x2B00, College Rule
 0x2B01, School Pad
 0x2B02, Organizer
