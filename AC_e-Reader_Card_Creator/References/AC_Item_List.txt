@@ -3911,44 +3911,6 @@
 0xA012, Villager Signboard
 0xA013, Player (Laying on Side, Softlocks Game, Seen in Wrong-Warp)
 0xA016, Player (Standing, Softlocks Game)
-0xE110, Shina's House
-0xE113, Sylvia's House
-0xE115, Rod's House
-0xE116, Jubei's House
-0xE117, Julia's House
-0xE118, Joe's House
-0xE119, Moe's House
-0xE11A, Nan's House
-0xE11B, Angus' House
-0xE11C, Victoria's House
-0xE11D, Marina's House
-0xE11E, Ike's House
-0xE11F, Tarou's House
-0xE120, Tasha's House
-0xE121, Charlise's House
-0xE122, Nindori's House
-0xE123, Frank's House
-0xE124, Bow's House
-0xE125, Tiffany's House
-0xE126, Patricia's House
-0xE127, Leonardo's House
-0xE128, Pierre's House
-0xE129, Roswell's House
-0xE12A, Francine's House
-0xE12B, Fruity's House
-0xE12D, Hopkins' House
-0xE12E, Walker's House
-0xE12F, Azalea's House
-0xE130, Boyd's House
-0xE131, Poko's House
-0xE132, Antonio's House
-0xE133, Masa's House
-0xE134, Ms. Rosa's House
-0xE135, Willow's House
-0xE136, Maggie's House
-0xE137, Meow's House
-0xE138, Miranda's House
-0xE139, Megumi's House
 0xFE1B, House Exit Flooring
 0xFE1D, Possible Bridge Location (/)
 0xFE1E, Possible Bridge Location (\)
