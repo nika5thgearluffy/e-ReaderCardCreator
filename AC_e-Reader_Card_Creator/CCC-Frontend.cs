@@ -596,7 +596,7 @@ namespace AC_e_Reader_Card_Creator
             }
         }
 
-        internal void EnableDarkMode()
+        public void EnableDarkMode()
         {
             isDarkModeEnabled = true;
 
