@@ -153,11 +153,11 @@
 0x0098, Peach Tree Sapling (No Hitbox)
 0x0099, Small Peach Tree (No Hitbox)
 0x009A, Medium Peach Tree (No Hitbox)
-0x009B, Resetti Survillence Center Entrance (Type 1)
-0x009C, Resetti Survillence Center Entrance (Type 2)
-0x009D, Resetti Survillence Center Entrance (Type 3)
-0x009E, Resetti Survillence Center Entrance (Type 4)
-0x009F, Resetti Survillence Center Entrance (Type 5)
+0x009B, Resetti Surveillance Center Entrance (Type 1)
+0x009C, Resetti Surveillance Center Entrance (Type 2)
+0x009D, Resetti Surveillance Center Entrance (Type 3)
+0x009E, Resetti Surveillance Center Entrance (Type 4)
+0x009F, Resetti Surveillance Center Entrance (Type 5)
 0x00A0, Clover
 0x00A1, Lucky Four-Leaf Clover
 0x00A2, Medium Pear Tree (No Hitbox)
