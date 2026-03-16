@@ -3224,24 +3224,24 @@
 0x360C, Shop Signboard
 0x3610, Ghostly Table
 0x3614, Axe (Furniture)
-0x3632, Indigo GameCube
-0x3636, Black GameCube
-0x363A, Silver GameCube
-0x363E, Orange GameCube
-0x3642, Mush Closet
-0x3646, Mush Chair
-0x364A, Mush Stool
-0x364E, Mush Table
-0x3652, Mush End Table
-0x3656, Mush Lamp
-0x365A, Mush Stand
-0x365E, Mush TV
-0x3662, Coprolite
-0x3666, Fern Fossil
-0x366A, Archaeopteryx
-0x366E, Peking Man
-0x3672, Shark Tooth
-0x3676, Lucky Clover (Furniture)
+0x3630, Indigo GameCube
+0x3635, Black GameCube
+0x3638, Silver GameCube
+0x363C, Orange GameCube
+0x3640, Mush Closet
+0x3644, Mush Chair
+0x3648, Mush Stool
+0x364C, Mush Table
+0x3650, Mush End Table
+0x3654, Mush Lamp
+0x3658, Mush Stand
+0x365C, Mush TV
+0x3660, Coprolite
+0x3664, Fern Fossil
+0x3668, Archaeopteryx
+0x366C, Peking Man
+0x3670, Shark Tooth
+0x3674, Lucky Clover (Furniture)
 0x4000, House Stairs Warp #1
 0x4001, House Stairs Warp #2
 0x4080, Warp Zone
@@ -3642,7 +3642,7 @@
 0x610A, W Shirt
 0x610B, Familiar Shirt
 0x8000, Paper Airplane
-0x8003, Beta Yellow/Brown Rotating Cube (Broken?)
+0x8003, Beta Yellow/Brown Rotating Cube
 0xA000, Upper Left House's Mailbox
 0xA001, Upper Right House's Mailbox
 0xA002, Lower Left House's Mailbox
