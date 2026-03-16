@@ -1087,7 +1087,7 @@
 0x1A40, Li'l Bro's Shirt (Furniture)
 0x1A44, Argyle Knit (Furniture)
 0x1A48, Caveman Tunic (Furniture)
-0x1A4C, Café Shirt (Furniture)
+0x1A4C, CafÃ© Shirt (Furniture)
 0x1A50, Tiki Shirt (Furniture)
 0x1A54, A Shirt (Furniture)
 0x1A58, Checkered Shirt (Furniture)
@@ -2130,7 +2130,7 @@
 0x24A5, Li'l Bro's Shirt
 0x24A6, Argyle Knit
 0x24A7, Caveman Tunic
-0x24A8, Café Shirt
+0x24A8, CafÃ© Shirt
 0x24A9, Tiki Shirt
 0x24AA, A Shirt
 0x24AB, Checkered Shirt
@@ -2223,7 +2223,7 @@
 0x2502, Corrupt
 0x2503, Videotape
 0x2504, Organizer
-0x2505, Pokémon Pikachu
+0x2505, PokÃ©mon Pikachu
 0x2506, Comic Book
 0x2507, Picture Book
 0x2508, Game Boy
@@ -2336,10 +2336,10 @@
 0x2640, Block Flooring
 0x2641, Boxing Ring Mat
 0x2642, Harvest Rug
-0x2643, Nook's Cranny Floor
-0x2644, Nook 'n' Go Floor
-0x2645, Nookway Floor
-0x2646, Nookington's Floor
+0x2643, Soccer Field
+0x2644, Natural Flooring
+0x2645, Bath Tile
+0x2646, Old Board Floor
 0x2647, Cellar Floor
 0x2648, Cloud Flooring
 0x2649, Common Floor
@@ -2628,9 +2628,9 @@
 0x2A2E, K.K. Dirge
 0x2A2F, K.K. Western
 0x2A30, Mr. K.K.
-0x2A31, Café K.K.
+0x2A31, CafÃ© K.K.
 0x2A32, K.K. Parade
-0x2A33, Señor K.K.
+0x2A33, SeÃ±or K.K.
 0x2A34, K.K. Song
 0x2A35, I Love You
 0x2A36, Two Days Ago
@@ -2698,9 +2698,9 @@
 0x2A74, K.K. Dirge (Live)
 0x2A75, K.K. Western (Live)
 0x2A76, Mr. K.K. (Live)
-0x2A77, Café K.K. (Live)
+0x2A77, CafÃ© K.K. (Live)
 0x2A78, K.K. Parade (Live)
-0x2A79, Señor K.K. (Live)
+0x2A79, SeÃ±or K.K. (Live)
 0x2A7A, K.K. Song (Live)
 0x2A7B, I Love You (Live)
 0x2A7C, Two Days Ago (Live)
